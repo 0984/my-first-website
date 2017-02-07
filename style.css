@@ -1,0 +1,50 @@
+/*@import url("reset.css");*/
+
+#form-background {
+  background-color: #e60000;
+  max-width: 300px;
+  margin-left: 25px;
+}
+
+#form-main {
+  background-image: url("img/wallpaper.png");
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.form-control {
+  display: block;
+  margin: auto;
+  width: 250px;
+}
+
+.btn {
+  color: white;
+  font-weight: bold;
+  background-color: #0080ff;
+  width: 250px;
+  display: block;
+  margin: auto;
+
+}
+
+#header-bottom {
+  background-color: red;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+#footer {
+  background-color: #ff8080;
+  color: #cc0044;
+
+}
+
+.inline-picture {
+  display: block;
+  margin: auto;
+  padding: 20px 0;
+}
